@@ -1,6 +1,6 @@
 # E-Commerce Backend (Object-Relational Mapping)
 
-Module 13: Object-Rela
+Module 13: Object-Relational Mapping
 
 ## Table of Contents
 1. [Description](#description)
@@ -17,12 +17,12 @@ To use this application, first clone the project and navigate to VS Code. In the
 - npm i mysql2
 - npm i sequelize
 - npm i dotenv
-To start the application, type 'node server.js' in the command-line.
+To start the application, type 'nodemon server.js' in the command-line.
 
 ## Visuals
 Here is a visual of the front-end of the webpage design and walkthrough video.
 
-![Alt text](./assets/images/e-commerce-backend.png)
+![Alt text](./assets/e-commerce-backend.png)
 
 <!-- Link to Walkthrough Video -->
-[Click this link to access the walkthrough video](https://drive.google.com/file/d/1IwlalUKHNzmmJyYSRRIMdsLiB4NsU7Dc/view) 
+[Click this link to access the walkthrough video](https://drive.google.com/file/d/1xg0Ix8_DVNyfybOYCC3MYK2yaHqYNyWA/view) 
