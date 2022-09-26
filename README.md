@@ -22,7 +22,7 @@ To start the application, type 'nodemon server.js' in the command-line.
 ## Visuals
 Here is a visual of the front-end of the webpage design and walkthrough video.
 
-![Alt text](./assets/e-commerce-backend.png)
+![Alt text](./assets/E-Commerce-Backend.png)
 
 <!-- Link to Walkthrough Video -->
 [Click this link to access the walkthrough video](https://drive.google.com/file/d/1xg0Ix8_DVNyfybOYCC3MYK2yaHqYNyWA/view) 
